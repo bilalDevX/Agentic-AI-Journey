@@ -1,4 +1,4 @@
-```markdown
+```
 # AgenticAI Journey - Run Your First Prompt
 
 ## Description
